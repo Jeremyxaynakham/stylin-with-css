@@ -1,2 +1,2 @@
-# stylin-with-css-wn21-12
+# stylin-with-css
 A repo for practicing CSS
